@@ -11,7 +11,7 @@
 ### *Transforming Data into Insights • Building Modern Web Applications • Continuously Learning*
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I'm+Rohit+Chaudhary+👋;MCA+Student;Data+Analytics+Enthusiast;Data+Science+Learner;Frontend+Developer;Power+BI+Dashboard+Creator;Python+%7C+SQL+%7C+Excel+%7C+JavaScript;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%20I'm%20Rohit%20Chaudhary;MCA%20Student;Data%20Analytics%20Enthusiast;Data%20Science%20Learner;Frontend%20Developer;Power%20BI%20Dashboard%20Creator;Python%20%7C%20SQL%20%7C%20Excel%20%7C%20JavaScript;Always%20Learning%20Something%20New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -157,8 +157,8 @@ I'm constantly learning new technologies and exploring Machine Learning, Busines
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohitChxudhary&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChxudhary&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohitChxudhary&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChxudhary&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -177,14 +177,14 @@ I'm constantly learning new technologies and exploring Machine Learning, Busines
 
 # 🌟 Featured Projects
 
-| 🚀 Project | 📄 Description | 🛠 Tech Stack | 📂 Repository | 🌐 Demo |
-|------------|---------------|--------------|--------------|---------|
-| 📊 Telco Customer Churn Analysis | Customer churn prediction & business insights | Python, Pandas, Matplotlib | 🔗 Add Link | 🌐 Add Demo |
-| 📱 PhonePe Transaction Analysis Dashboard | Interactive Power BI dashboard | Power BI, Excel | 🔗 Add Link | 🌐 Add Demo |
-| 🍽 Zomato SQL Analytics | SQL-based restaurant analytics | SQL, BigQuery | 🔗 Add Link | 🌐 Add Demo |
-| 📈 Stock Market Dashboard | Interactive stock market analysis | Python, Plotly | 🔗 Add Link | 🌐 Add Demo |
-| 🌐 Portfolio Website | Personal portfolio website | HTML, CSS, JavaScript | 🔗 Add Link | 🌐 Live |
-| 📉 Sales Dashboard | Business intelligence dashboard | Power BI, Excel | 🔗 Add Link | 🌐 Add Demo |
+| 🚀 Project | 📄 Description | 🛠 Tech Stack | 📂 Repository |
+|------------|---------------|--------------|--------------|
+| 📊 Telco Customer Churn Analysis | Customer churn prediction & business insights | Python, Pandas, Matplotlib | 🔗 https://github.com/RohitChxudhary/Telco-Customer-Churn-Analysis |
+| 📱 PhonePe Transaction Analysis Dashboard | Interactive Power BI dashboard | Power BI, Excel | 🔗 https://github.com/RohitChxudhary/Phonepe_Data_Analysis |
+| 🍽 Zomato SQL Analytics | SQL-based restaurant analytics | SQL, BigQuery | 🔗 https://github.com/RohitChxudhary/Zomato_Data_Analysis |
+| 📈 Stock Market Dashboard | Interactive stock market analysis | Python, Plotly | 🔗 Add Link |
+| 🌐 Portfolio Website | Personal portfolio website | HTML, CSS, JavaScript | 🔗 Add Link |
+| 📉 Sales Dashboard | Business intelligence dashboard | Power BI, Excel | 🔗 Add Link |
 
 ---
 
