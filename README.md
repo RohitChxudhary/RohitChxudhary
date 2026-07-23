@@ -11,24 +11,15 @@
 ### *Transforming Data into Insights • Building Modern Web Applications • Continuously Learning*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%20I'm%20Rohit%20Chaudhary;MCA%20Student;Data%20Analytics%20Enthusiast;Data%20Science%20Learner;Frontend%20Developer;Power%20BI%20Dashboard%20Creator;Python%20%7C%20SQL%20%7C%20Excel%20%7C%20JavaScript;Always%20Learning%20Something%20New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I'm+Rohit+Chaudhary;MCA+Student;Data+Analytics+Enthusiast;Data+Science+Learner;Frontend+Developer;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New" />
 </p>
 
-<p align="center">
+![](https://komarev.com/ghpvc/?username=RohitChxudhary&label=Profile%20Views&style=for-the-badge)
 
-<img src="https://komarev.com/ghpvc/?username=RohitChxudhary&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Chaudhary-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohitchxudhary/)
+[![GitHub](https://img.shields.io/badge/GitHub-RohitChxudhary-181717?style=for-the-badge&logo=github)](https://github.com/RohitChxudhary)
+![](https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge)
 
-<a href="https://github.com/RohitChxudhary?tab=followers">
-<img src="https://img.shields.io/github/followers/RohitChxudhary?label=Followers&logo=github&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/RohitChxudhary">
-<img src="https://img.shields.io/github/stars/RohitChxudhary?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
-
-</p>
 
 </div>
 
@@ -166,10 +157,6 @@ I'm constantly learning new technologies and exploring Machine Learning, Busines
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChxudhary&theme=tokyo-night"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/RohitChxudhary/RohitChxudhary/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ---
 
 # 🌟 Featured Projects
@@ -180,7 +167,7 @@ I'm constantly learning new technologies and exploring Machine Learning, Busines
 | 📱 PhonePe Transaction Analysis Dashboard | Interactive Power BI dashboard | Power BI, Excel | 🔗 https://github.com/RohitChxudhary/Phonepe_Data_Analysis |
 | 🍽 Zomato SQL Analytics | SQL-based restaurant analytics | SQL, BigQuery | 🔗 https://github.com/RohitChxudhary/Zomato_Data_Analysis |
 | 📈 Stock Market Dashboard | Interactive stock market analysis | Python, Plotly | 🔗 Add Link |
-| 🌐 Portfolio Website | Personal portfolio website | HTML, CSS, JavaScript | 🔗 Add Link |
+| 🌐 Portfolio Website | Personal portfolio website | HTML, CSS, JavaScript | 🔗 https://rohitchxudhary.github.io/Portfolio/ |
 | 📉 Sales Dashboard | Business intelligence dashboard | Power BI, Excel | 🔗 Add Link |
 
 ---
